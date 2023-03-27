@@ -20,15 +20,16 @@ const projects=[
   {
     id:2,
     src:drum,
-    href:"https://kaleidoscopic-hummingbird-6667e2.netlify.app/",
-    code:"https://github.com/Sravank12/Dice-game"
+     href:"https://sweet-speculoos-04cb84.netlify.app/",
+    code:"https://github.com/Sravank12/Drum-Kit"
 
   },
   {
     id:3,
     src:dice,
-    href:"https://sweet-speculoos-04cb84.netlify.app/",
-    code:"https://github.com/Sravank12/Drum-Kit"
+    href:"https://kaleidoscopic-hummingbird-6667e2.netlify.app/",
+    code:"https://github.com/Sravank12/Dice-game"
+   
   }
 
 
