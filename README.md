@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Project Live link:https://ephemeral-fairy-894ddf.netlify.app/
+Project Live link: http://13.232.3.12/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
